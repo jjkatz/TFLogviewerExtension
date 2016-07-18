@@ -3,7 +3,7 @@
 
   "name": "TotalFreedom Logviewer",
   "description": "TotalFreedom's Logviewer is a faster way to look at the logs without opening another tab!"
-  "version": "1.1.0",
+  "version": "1.1.1",
   
   "browser_action": {
    "default_icon": "icon.png",
