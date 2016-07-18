@@ -2,9 +2,8 @@
   "manifest_version": 2,
 
   "name": "TotalFreedom Logviewer",
-  "description": "TotalFreedom's Logviewer is a faster way to look at the logs without opening another tab!"
-  "version": "1.1.1",
-  
+  "version": "1.1.0",
+
   "browser_action": {
    "default_icon": "icon.png",
    "default_popup": "popup.html"
